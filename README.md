@@ -1,16 +1,11 @@
-﻿# website-upload-20260602-121726-070
+# 最新日韩视频 静态电影网站
 
-Batch 70 of 38. Contains extracted static website versions. The original zip files are not committed.
+已根据上传素材生成纯静态网站：
 
-| Directory | Source zip |
-| --- | --- |
-| version-691 | project-bolt-sb1-acv3sfrr - 副本-chatgpt (1).zip |
-| version-692 | project-bolt-sb1-acv3sfrr-chatgpt (1) (moved 1).zip |
-| version-693 | project-bolt-sb1-acv3sfrr-chatgpt (1).zip |
-| version-694 | project-bolt-sb1-adc9xok4 - 副本-chatgpt (1) (moved 1).zip |
-| version-695 | project-bolt-sb1-adc9xok4 - 副本-chatgpt (1).zip |
-| version-696 | project-bolt-sb1-adc9xok4-chatgpt (1).zip |
-| version-697 | project-bolt-sb1-afdr8vhz - 副本-chatgpt (1).zip |
-| version-698 | project-bolt-sb1-afdr8vhz-chatgpt (1) (moved 1).zip |
-| version-699 | project-bolt-sb1-afdr8vhz-chatgpt (1).zip |
-| version-700 | project-bolt-sb1-afhj9hoe - 副本-chatgpt (1) (moved 1).zip |
+- 影片数据：2000 条
+- 详情页：2000 个
+- 分类页：12 个
+- 每个 HTML 页面已插入百度统计代码
+- 播放器使用上传 JS 中提取到的 m3u8 播放源并通过 HLS 初始化
+
+图片说明：上传素材包中未包含顶级目录 1.jpg 至 150.jpg 图片文件，因此页面按要求引用这些文件名，并提供 CSS 背景兜底。后续把 1.jpg 至 150.jpg 放到网站顶级目录后，封面和 Hero 区域会自动显示对应图片。
